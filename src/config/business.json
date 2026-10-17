@@ -1,0 +1,22 @@
+{
+  "_readme": "Single place to edit the client's business details. Leave a value as an empty string until the client confirms it; the site hides or disables anything that is empty. phone/whatsapp: digits with country code, e.g. 919XXXXXXXXX. siteUrl: the live domain without a trailing slash, e.g. https://www.parthtours.in (on Vercel the sitemap falls back to the project's production URL if this is empty).",
+  "name": "Parth Tours and Travels",
+  "shortName": "Parth Tours",
+  "tagline": "Your Journey, Our Priority.",
+  "city": "Kolhapur",
+  "region": "Maharashtra",
+  "country": "India",
+  "phone": "+91 98605 76408",
+  "whatsapp": "919860576408",
+  "email": "",
+  "address": "",
+  "mapsUrl": "",
+  "hours": "",
+  "siteUrl": "",
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "googleReviews": ""
+  },
+  "reviews": []
+}

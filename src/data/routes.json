@@ -1,0 +1,410 @@
+[
+ {
+  "slug": "kolhapur-to-pune",
+  "title": "Kolhapur to Pune",
+  "to": "Pune",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "maharashtra"
+  ],
+  "popular": true,
+  "image": null,
+  "blurb": "Taxi from Kolhapur to Pune. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Pune is a major city in Maharashtra, popular for business, education and weekend travel."
+ },
+ {
+  "slug": "pune-to-kolhapur",
+  "title": "Pune to Kolhapur",
+  "to": "Kolhapur",
+  "kind": "intercity",
+  "tags": [
+   "to-kolhapur",
+   "maharashtra"
+  ],
+  "popular": true,
+  "image": null,
+  "blurb": "Taxi from Pune to Kolhapur. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Pune",
+  "about": "Pune is a major city in Maharashtra, popular for business, education and weekend travel."
+ },
+ {
+  "slug": "kolhapur-to-mumbai",
+  "title": "Kolhapur to Mumbai",
+  "to": "Mumbai",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "maharashtra"
+  ],
+  "popular": true,
+  "image": null,
+  "blurb": "Taxi from Kolhapur to Mumbai. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Mumbai is Maharashtra's capital and largest city, and a major transport hub for rail and air travellers."
+ },
+ {
+  "slug": "mumbai-to-kolhapur",
+  "title": "Mumbai to Kolhapur",
+  "to": "Kolhapur",
+  "kind": "intercity",
+  "tags": [
+   "to-kolhapur",
+   "maharashtra"
+  ],
+  "popular": true,
+  "image": null,
+  "blurb": "Taxi from Mumbai to Kolhapur. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Mumbai",
+  "about": "Mumbai is Maharashtra's capital and largest city, and a major transport hub for rail and air travellers."
+ },
+ {
+  "slug": "kolhapur-to-goa",
+  "title": "Kolhapur to Goa",
+  "to": "Goa",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "goa",
+   "coastal"
+  ],
+  "popular": true,
+  "image": "dest-goa",
+  "blurb": "Taxi from Kolhapur to Goa. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Goa is a coastal state on the west coast of India, known for its beaches, churches and temples."
+ },
+ {
+  "slug": "goa-to-kolhapur",
+  "title": "Goa to Kolhapur",
+  "to": "Kolhapur",
+  "kind": "intercity",
+  "tags": [
+   "to-kolhapur",
+   "goa",
+   "coastal"
+  ],
+  "popular": true,
+  "image": "dest-goa",
+  "blurb": "Taxi from Goa to Kolhapur. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Goa",
+  "about": "Goa is a coastal state on the west coast of India, known for its beaches, churches and temples."
+ },
+ {
+  "slug": "kolhapur-to-belgaum",
+  "title": "Kolhapur to Belgaum",
+  "to": "Belgaum",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "karnataka"
+  ],
+  "popular": true,
+  "image": null,
+  "blurb": "Taxi from Kolhapur to Belgaum. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Belgaum, also called Belagavi, is a city in Karnataka just across the Maharashtra border."
+ },
+ {
+  "slug": "belgaum-to-kolhapur",
+  "title": "Belgaum to Kolhapur",
+  "to": "Kolhapur",
+  "kind": "intercity",
+  "tags": [
+   "to-kolhapur",
+   "karnataka"
+  ],
+  "popular": true,
+  "image": null,
+  "blurb": "Taxi from Belgaum to Kolhapur. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Belgaum",
+  "about": "Belgaum, also called Belagavi, is a city in Karnataka just across the Maharashtra border."
+ },
+ {
+  "slug": "kolhapur-to-solapur",
+  "title": "Kolhapur to Solapur",
+  "to": "Solapur",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "maharashtra"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Kolhapur to Solapur. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Solapur is a city in southern Maharashtra."
+ },
+ {
+  "slug": "kolhapur-to-hubli",
+  "title": "Kolhapur to Hubli",
+  "to": "Hubli",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "karnataka"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Kolhapur to Hubli. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Hubli, also called Hubballi, is a major city in northern Karnataka."
+ },
+ {
+  "slug": "kolhapur-to-hyderabad",
+  "title": "Kolhapur to Hyderabad",
+  "to": "Hyderabad",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Kolhapur to Hyderabad. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Hyderabad is the capital of Telangana and a long-distance destination from Kolhapur."
+ },
+ {
+  "slug": "kolhapur-to-ratnagiri",
+  "title": "Kolhapur to Ratnagiri",
+  "to": "Ratnagiri",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "maharashtra",
+   "coastal"
+  ],
+  "popular": false,
+  "image": "dest-ganpatipule",
+  "blurb": "Taxi from Kolhapur to Ratnagiri. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Ratnagiri is a district town on the Konkan coast of Maharashtra."
+ },
+ {
+  "slug": "kolhapur-to-malvan-and-sindhudurg",
+  "title": "Kolhapur to Malvan and Sindhudurg",
+  "to": "Malvan and Sindhudurg",
+  "kind": "intercity",
+  "tags": [
+   "from-kolhapur",
+   "maharashtra",
+   "coastal"
+  ],
+  "popular": false,
+  "image": "dest-sindhudurg",
+  "blurb": "Taxi from Kolhapur to Malvan and Sindhudurg. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Kolhapur",
+  "about": "Malvan and Sindhudurg lie on the Konkan coast and are known for their beaches and the sea fort at Sindhudurg."
+ },
+ {
+  "slug": "kolhapur-to-outstation",
+  "title": "Kolhapur to Outstation",
+  "to": "Outstation",
+  "kind": "outstation",
+  "tags": [
+   "from-kolhapur"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Planning a trip to a place that is not listed? Tell us where you want to go and we will confirm if we can take you there.",
+  "from": "Kolhapur",
+  "about": ""
+ },
+ {
+  "slug": "belgaum-to-goa",
+  "title": "Belgaum to Goa",
+  "to": "Goa",
+  "kind": "intercity",
+  "tags": [
+   "karnataka",
+   "goa"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Belgaum to Goa. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Belgaum",
+  "about": "Belgaum, also called Belagavi, is a city in Karnataka just across the Maharashtra border. Goa is a coastal state on the west coast of India, known for its beaches, churches and temples."
+ },
+ {
+  "slug": "goa-to-belgaum",
+  "title": "Goa to Belgaum",
+  "to": "Belgaum",
+  "kind": "intercity",
+  "tags": [
+   "karnataka",
+   "goa"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Goa to Belgaum. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Goa",
+  "about": "Goa is a coastal state on the west coast of India, known for its beaches, churches and temples. Belgaum, also called Belagavi, is a city in Karnataka just across the Maharashtra border."
+ },
+ {
+  "slug": "belgaum-to-mumbai",
+  "title": "Belgaum to Mumbai",
+  "to": "Mumbai",
+  "kind": "intercity",
+  "tags": [
+   "karnataka",
+   "maharashtra"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Belgaum to Mumbai. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Belgaum",
+  "about": "Belgaum, also called Belagavi, is a city in Karnataka just across the Maharashtra border. Mumbai is Maharashtra's capital and largest city, and a major transport hub for rail and air travellers."
+ },
+ {
+  "slug": "mumbai-to-belgaum",
+  "title": "Mumbai to Belgaum",
+  "to": "Belgaum",
+  "kind": "intercity",
+  "tags": [
+   "karnataka",
+   "maharashtra"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Mumbai to Belgaum. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Mumbai",
+  "about": "Mumbai is Maharashtra's capital and largest city, and a major transport hub for rail and air travellers. Belgaum, also called Belagavi, is a city in Karnataka just across the Maharashtra border."
+ },
+ {
+  "slug": "mumbai-to-goa",
+  "title": "Mumbai to Goa",
+  "to": "Goa",
+  "kind": "intercity",
+  "tags": [
+   "maharashtra",
+   "goa"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Mumbai to Goa. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Mumbai",
+  "about": "Mumbai is Maharashtra's capital and largest city, and a major transport hub for rail and air travellers. Goa is a coastal state on the west coast of India, known for its beaches, churches and temples."
+ },
+ {
+  "slug": "goa-to-mumbai",
+  "title": "Goa to Mumbai",
+  "to": "Mumbai",
+  "kind": "intercity",
+  "tags": [
+   "maharashtra",
+   "goa"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Goa to Mumbai. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Goa",
+  "about": "Goa is a coastal state on the west coast of India, known for its beaches, churches and temples. Mumbai is Maharashtra's capital and largest city, and a major transport hub for rail and air travellers."
+ },
+ {
+  "slug": "sangli-to-goa",
+  "title": "Sangli to Goa",
+  "to": "Goa",
+  "kind": "intercity",
+  "tags": [
+   "maharashtra",
+   "goa"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Sangli to Goa. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Sangli",
+  "about": "Sangli is a city in Maharashtra, in the district next to Kolhapur. Goa is a coastal state on the west coast of India, known for its beaches, churches and temples."
+ },
+ {
+  "slug": "goa-to-sangli",
+  "title": "Goa to Sangli",
+  "to": "Sangli",
+  "kind": "intercity",
+  "tags": [
+   "maharashtra",
+   "goa"
+  ],
+  "popular": false,
+  "image": null,
+  "blurb": "Taxi from Goa to Sangli. Share your date, pickup point and group size to get the fare and vehicle options.",
+  "from": "Goa",
+  "about": "Goa is a coastal state on the west coast of India, known for its beaches, churches and temples. Sangli is a city in Maharashtra, in the district next to Kolhapur."
+ },
+ {
+  "slug": "kolhapur-local-taxi",
+  "title": "Kolhapur Local Taxi",
+  "to": "Kolhapur",
+  "kind": "local",
+  "tags": [
+   "local"
+  ],
+  "popular": false,
+  "image": "dest-palace",
+  "blurb": "Need a taxi within Kolhapur? Tell us your pickup points, how long you need the vehicle and the number of passengers, and we will confirm availability.",
+  "from": "Kolhapur",
+  "about": "Kolhapur is a city in southern Maharashtra, known for the Mahalaxmi temple."
+ },
+ {
+  "slug": "kolhapur-to-karvir-darshan",
+  "title": "Kolhapur to Karvir Darshan",
+  "to": "Karvir",
+  "kind": "darshan",
+  "tags": [
+   "from-kolhapur",
+   "darshan"
+  ],
+  "popular": false,
+  "image": "dest-mahalaxmi",
+  "blurb": "A darshan tour starting from Kolhapur. Karvir is the traditional name of Kolhapur. The places covered are confirmed with you when you book.",
+  "from": "Kolhapur",
+  "about": ""
+ },
+ {
+  "slug": "kolhapur-to-datta-darshan",
+  "title": "Kolhapur to Datta Darshan",
+  "to": "Datta",
+  "kind": "darshan",
+  "tags": [
+   "from-kolhapur",
+   "darshan"
+  ],
+  "popular": false,
+  "image": "dest-narsobachiwadi",
+  "blurb": "A darshan tour from Kolhapur for devotees visiting Datta shrines. The itinerary and stops are confirmed with you when you book.",
+  "from": "Kolhapur",
+  "about": ""
+ },
+ {
+  "slug": "kolhapur-to-kokan-darshan",
+  "title": "Kolhapur to Kokan Darshan",
+  "to": "Kokan",
+  "kind": "darshan",
+  "tags": [
+   "from-kolhapur",
+   "darshan",
+   "coastal"
+  ],
+  "popular": false,
+  "image": "dest-malvan",
+  "blurb": "A darshan tour from Kolhapur towards the Konkan region. The itinerary and stops are confirmed with you when you book.",
+  "from": "Kolhapur",
+  "about": ""
+ },
+ {
+  "slug": "kolhapur-to-goa-darshan",
+  "title": "Kolhapur to Goa Darshan",
+  "to": "Goa",
+  "kind": "darshan",
+  "tags": [
+   "from-kolhapur",
+   "darshan",
+   "coastal"
+  ],
+  "popular": false,
+  "image": "dest-goa-darshan",
+  "blurb": "A darshan and sightseeing tour from Kolhapur to Goa. The itinerary and stops are confirmed with you when you book.",
+  "from": "Kolhapur",
+  "about": "Goa is a coastal state on the west coast of India, known for its beaches, churches and temples."
+ }
+]
